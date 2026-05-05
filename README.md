@@ -2,7 +2,7 @@
 
 > **"A high-performance immersive scrolling experience leveraging the GSAP engine for non-linear parallax effects and hardware-accelerated motion orchestration."**
 
-![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/GSAP?color=teal&style=flat-square)
+![Stars](https://img.shields.io/github/stars/emineugurlu/GSAP?color=teal&style=flat-square)
 ![Language Count](https://img.shields.io/github/languages/count/emineugurlu/GSAP?color=teal&style=flat-square)
 ![Animation Engine](https://img.shields.io/badge/Engine-GSAP-green?style=flat-square&logo=greensock)
 
